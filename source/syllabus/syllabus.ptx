@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<section xml:id="syllabus" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Syllabus</title>
+
+  <introduction>
+    <p>
+    </p>
+  </introduction>
+  <!-- Include chapters -->
+  <subsection xml:id="sec-course-info">
+    <title>Course Information</title>
+
+    <p>
+      This is the syllabus for <term>BIOL 262 Molecular Biology</term> for Fall 2026
+      It is a 1.25 credit course.
+      <!-- use a description list (dl) for short items -->
+      <dl>
+        <li>
+          <title>Instructor</title>
+
+          <p>
+            Professor Rachel Avard, Hemenway Annex, 614, 978-566-9009 <url href="mailto:prof.lastname@example.edu">ravard@framingham.edu</url>.
+          </p>
+        </li>
+
+        <li>
+          <title>Office Hours</title>
+
+          <p>
+            Walk ins are welcome! Students who make appointments will have priority, but if I am in my office and I’m not meeting with anyone else, please feel free to stop by with any questions you have. I am here to help! In most situations, students are limited to 30 minutes of office hours a week. This is to ensure that all students have fair access to office hours, as well as to ensure that each student has the opportunity to work through material independently. This rule can be broken in appropriate / extenuating situations, please speak with me if the need arises! 
+
+            
+            Monday 12:30 - 1:30 pm
+            Tuesday 11:00 - 12:00
+            Friday 1:30 - 2:30 
+          </p>
+        </li>
+
+        <li>
+          <title>Lecture Times</title>
+
+          <p>
+            MWRF 11:30 - 12:20 pm
+          </p>
+        </li>
+
+         <li>
+          <title>Lecture Location</title>
+
+          <p>
+            Hemenway Hall 110
+          </p>
+        </li>
+
+        <li>
+          <title>Course Description</title>
+
+          <p>
+            An examination of the way the cell accesses, uses, and maintains the information stored in the genome. It begins with an overview of DNA structure and topology, continues with replication, transcription, and translation, and concludes with gene regulation. Special topics could include cancer, stem cells, and RNAi, and focusing on the structure-function relationships of the molecules involved in these processes. Students are required to enroll in the corresponding laboratory (3 hours). Corequisite: BIOL 262L Molecular Biology Lab Prerequisites: BIOL 135 Foundations of Biological Science with Lab, and CHEM 108 Principles of Chemistry and Quantitative Analysis with Lab; or permission of the instructor
+1.250 Credit hours
+4.000 Lecture hours
+          </p>
+        </li>
+       
+        <li>
+          <title>Textbook</title>
+
+          <p>
+            <pubtitle>Molecular Biology of the Gene, 7th Ed.</pubtitle>
+            by Watson et. al
+          </p>
+        </li>
+      </dl>
+    </p>
+
+  <!-- Use paragraphs to break apart subsections -->
+    <paragraphs>
+      <title>Course Overview</title>
+
+      <p>
+      </p>
+    </paragraphs>
+  </subsection>
+
+  <!-- Other subsections for larger dividers -->
+  <subsection xml:id="sec-assessments">
+    <title>Assessments and Grades</title>
+
+    <p>
+    </p>
+  </subsection>
+</section>
