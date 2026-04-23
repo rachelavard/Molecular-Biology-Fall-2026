@@ -582,19 +582,250 @@
        </li>
 
        <li>
-          <title>Title</title>
+          <title>3 Minute Thesis</title>
           <p>
-              Content
+            The 3 Minute Thesis (3MT) is a recent phenomenon where students summarize the entirety of their thesis work into the span of three minutes. This may sound like a very easy task, but you must fully understand the background, importance, and molecular biology in order to fully convey a topic in 3 minutes! 
+          </p>
+          <p>
+           	The goal of this project is twofold:
+          </p>
+          <p>
+            Work on succinct, oral scientific communication and public speaking 
+          </p>
+          <p>
+            Learn to apply the information that we learned this semester to new molecules / pathways
+          </p>
+          <p>
+             	Your topic <em>must focus on the molecular biology</em> of something that we have not covered in this course.
+          </p>
+          <p>
+            You will have exactly <em>3 minutes</em> and <em>1 static slide</em> to present your topic.
+          </p>
+          <p>
+            We will use one lab period to practice 3MT presentations
+          </p>
+       </li>
+
+       <li>
+          <title>Participation</title>
+          <p>
+             	There will be <em>no rounding</em> in this course
+          </p>
+          <p>
+             	Students may earn up to 2 bonus points for participation
+          </p>
+          <p>
+             	A student aiming to receive the full 2 points for participation should anticipate coming to class every day, responding to multiple questions daily, regularly coming to office hours or emailing me, etc. Students who do these activities occasionally will receive proportionally fewer of these possible two bonus points.
+          </p>
+          <p>
+             	Please note that I will <em>not</em> be <em>'bumping'</em> grades if you are on the cusp of a higher letter grade. The participation points are meant to be a fair way to raise the grades of those students who worked hard and engaged in the class.
           </p>
        </li>
 
         </dl>
       </p>
      </paragraphs>
-      
     
-    <p>    
-       
-    </p>
   </subsection>
+
+
+
+
+
+
+
+   <!-- Other subsections for larger dividers -->
+  <subsection xml:id="sec-schedule">
+    <paragraphs>
+      <title>Assignments and Grades</title>
+      <p>
+        <dl>
+              
+       <li>
+          <title>Exams</title>
+          <p>
+              There will be 3 semester exams, all on Fridays
+          </p>
+          <p>
+            October 17th - Exam 1
+          </p>
+          <p>
+            November 7th - Exam 2
+          </p>
+          <p>
+            December 5th - Exam 3
+          </p>
+       </li>
+
+       <li>
+          <title>Final Exam</title>
+          <p>
+              There will be 1, cumulative final exam
+          </p>
+          <p>
+            December 17th - Final Exam
+          </p>
+          <p>
+            The final exam will be at 11:30 am
+          </p>
+       </li>
+
+       <li>
+          <title>Structure Quiz</title>
+          <p>
+            There will be 1 structure quiz this semester
+          </p>
+          <p>
+            September 26th - Structure Quiz
+          </p>
+       </li>
+
+       <li>
+          <title>Laboratory Assignments</title>
+          <p>
+            There will be multiple laboratory assignments this semester. All lab assignments are outlined in more detail in the lab syllabus
+          </p>
+       </li>
+
+       <li>
+          <title>Problem Sets</title>
+          <p>
+            There will be 14 problem sets this semester, all due on Thursdays at 11:30am. The final day to submit all problem sets is the day before the exam that that problem covers the content for 
+          </p>
+          <p>
+            September 11th - Problem Set 1
+          </p>
+          <p>
+            September 18th - Problem Set 2
+          </p>
+          <p>
+            September 25th - Problem Set 3
+          </p>
+          <p>
+            October 2nd - Problem Set 4
+          </p>
+          <p>
+            October 9th - Problem Set 5
+          </p>
+          <p>
+            October 16th - Problem Set 6
+          </p>
+          <p>
+            <em>Problem Sets 1 - 6 have a final due date of October 16th</em>
+          </p>
+          <p>
+            October 23rd - Problem Set 7
+          </p>
+          <p>
+            October 30th - Problem Set 8
+          </p>
+          <p>
+            November 6th - Problem Set 9
+          </p>
+          <p>
+            <em>Problem Sets 7 - 9 have a final due date of November 6th</em>
+          </p>
+          <p>
+            November 13th - Problem Set 10
+          </p>
+          <p>
+            November 20th - Problem Set 11
+          </p>
+          <p>
+            November 27th - Problem Set 12
+          </p>
+          <p>
+            December 4th - Problem Set 13
+          </p>
+          <p>
+            <em>Problem Sets 10 - 13 have a final due date of December 4th</em>
+          </p>
+          <p>
+            December 17th - Problem Set 14
+          </p>
+          <p>
+            <em>Problem Sets 14 has a final due date of December 17th</em>
+          </p>
+       </li>
+
+       <li>
+          <title>Creative Study Guides</title>
+          <p>
+            There are 3 creative study guides this semester, all due the Monday before the semester exams
+          </p>
+          <p>
+            October 13th - Creative Study Guide 1
+          </p>
+          <p>
+            November 3rd - Creative Study Guide 2
+          </p>
+          <p>
+            December 1st - Creative Study Guide 3
+          </p>
+       </li>
+
+       <li>
+          <title>3 Minute Thesis</title>
+          <p>
+            There will be 1 or two days of 3MT presentations, depending on the number of students in the course. These presentations will occur on the last day (or two days) of class for the semester. 3MT slides will be do prior to this, as practice presentations will occur during one of the lab sessions this semester (see lab syllabus for details) 
+          </p>
+          <p>
+            December 8th (maybe) and 10th - 3MT Presentation Day(s)
+          </p>
+       </li>
+    
+        </dl>
+      </p>
+     </paragraphs>
+    
+  </subsection>
+
+
+
+
+
+
+   <!-- Other subsections for larger dividers -->
+  <subsection xml:id="sec-topics">
+    <paragraphs>
+      <title>Course Topics</title>
+      <p>
+        <dl>
+              
+       <li>
+          <title>Exams</title>
+          <p>
+              There will be 3 semester exams, all on Fridays
+          </p>
+          <p>
+            October 17th - Exam 1
+          </p>
+          <p>
+            November 7th - Exam 2
+          </p>
+          <p>
+            December 5th - Exam 3
+          </p>
+       </li>
+
+       <li>
+          <title>3 Minute Thesis</title>
+          <p>
+            There will be 1 or two days of 3MT presentations, depending on the number of students in the course. These presentations will occur on the last day (or two days) of class for the semester. 3MT slides will be do prior to this, as practice presentations will occur during one of the lab sessions this semester (see lab syllabus for details) 
+          </p>
+          <p>
+            December 8th (maybe) and 10th - 3MT Presentation Day(s)
+          </p>
+       </li>
+    
+        </dl>
+      </p>
+     </paragraphs>
+    
+  </subsection>
+
+
+
+
+
 </section>
