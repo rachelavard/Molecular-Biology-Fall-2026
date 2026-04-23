@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!-- When creating a new activity, make a copy of this file with appropriate name -->
-<worksheet xml:id="POTD-03">
-  <title>Problem of the Day 3</title>
+<worksheet xml:id="POTD-05">
+  <title>Problem of the Day 5</title>
 
   <!-- Optional introduction -->
   <introduction>
@@ -15,18 +15,8 @@
   <exercise workspace="2in">
     <statement>
       <p>
-        Please grab a marker and a new friend and draw 3 different molecules:
+        Without looking at your notes, please create a list with a friend that orders all of the intermolecular forces that we’ve discussed from weakest to strongest. Be sure to explain why they fall in this order!  
       </p>
-      <p>
-        A. One that has polar bonds and is a polar molecule 
-      </p>
-      <p>
-        B. One that has nonpolar bonds and is a nonpolar molecule
-      </p>
-      <p>
-        C. One that has polar bonds but is a nonpolar molecule
-      </p>
-
     </statement>
   </exercise>
 

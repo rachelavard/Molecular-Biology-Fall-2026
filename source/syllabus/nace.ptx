@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<section xml:id="NACE" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>NACE Competencies</title>
+
+  <introduction>
+    <p>
+      The National Association of Colleges and Employers (NACE) has a set of career competencies that are meant to help improve career readiness for students. This course dedicates a lot of time to preparing students for their futures, and so we will reference the NACE competencies regularly. The below document outlines the NACE competencies, directly quoting the information that can be found on the NACE website (https://www.naceweb.org/). Competencies associated with various assignments will be marked throughout the semester as such. 
+    </p>
+  </introduction>
+  <!-- Include chapters -->
+  <subsection xml:id="sec-NACE1">
+    <title>1. Career and Self Development</title>
+
+    <p>
+      Proactively develop oneself and one’s career through continual personal and professional learning, awareness of one’s strengths and weaknesses, navigation of career opportunities, and networking to build relationships within and without one’s organization.
+      <!-- use a description list (dl) for short items -->
+      <dl>
+        <li>
+          <title>Sample Behaviors</title>
+
+          <p>
+          Show an awareness of own strengths and areas for development.
+          </p>
+          <p>
+          Identify areas for continual growth while pursuing and applying feedback.
+          </p>
+          <p>
+          Develop plans and goals for one’s future career.
+          </p>
+          <p>
+          Professionally advocate for oneself and others.
+          </p>
+          <p>
+          Display curiosity; seek out opportunities to learn.
+          </p>
+          <p>
+          Assume duties or positions that will help one progress professionally.
+          </p>
+          <p>
+          Establish, maintain, and/or leverage relationships with people who can help one professionally.
+          </p>
+          <p>
+          Seek and embrace development opportunities.
+          </p>
+          <p>
+          Voluntarily participate in further education, training, or other events to support one’s career.
+          </p>
+        </li>
+      </dl>
+    </p>
+  </subsection>
+
+  
+
+<!-- Include chapters -->
+  <subsection xml:id="sec-NACE2">
+    <title>2. Communication</title>
+
+    <p>
+      Clearly and effectively exchange information, ideas, facts, and perspectives with persons inside and outside of an organization
+      <!-- use a description list (dl) for short items -->
+      <dl>
+        <li>
+          <title>Sample Behaviors</title>
+
+          <p>
+          Understand the importance of and demonstrate verbal, written, and non-verbal/body language, abilities.
+         </p>
+          <p> 
+          Employ active listening, persuasion, and influencing skills.
+          </p>
+          <p>
+          Communicate in a clear and organized manner so that others can effectively understand.
+          </p>
+          <p>
+          Frame communication with respect to diversity of learning styles, varied individual communication abilities, and cultural differences.
+          </p>
+          <p>
+          Ask appropriate questions for specific information from supervisors, specialists, and others.
+          </p>
+          <p>
+          Promptly inform relevant others when needing guidance with assigned tasks.
+          </p>
+          
+        </li>
+      </dl>
+    </p>
+  </subsection>
+
+  
+
+  <!-- Include chapters -->
+  <subsection xml:id="sec-NACE3">
+    <title>3. Critical Thinking</title>
+
+    <p>
+      Identify and respond to needs based upon an understanding of situational context and logical analysis of relevant information.
+      <!-- use a description list (dl) for short items -->
+      <dl>
+        <li>
+          <title>Sample Behaviors</title>
+
+          <p>
+          Make decisions and solve problems using sound, inclusive reasoning and judgment.
+          </p>
+          <p>
+          Gather and analyze information from a diverse set of sources and individuals to fully understand a problem.
+          </p>
+          <p>
+          Proactively anticipate needs and prioritize action steps.
+          </p>
+          <p>
+          Accurately summarize and interpret data with an awareness of personal biases that may impact outcomes.
+          </p>
+          <p>
+          Effectively communicate actions and rationale, recognizing the diverse perspectives and lived experiences of stakeholders.
+          </p>
+          <p>
+          Multi-task well in a fast-paced environment
+          </p>
+          
+        </li>
+      </dl>
+    </p>
+  </subsection>
+
+
+  <!-- Include chapters -->
+  <subsection xml:id="sec-NACE4">
+    <title>4. Equity and Inclusion</title>
+
+    <p>
+      Demonstrate the awareness, attitude, knowledge, and skills required to equitably engage and include people from different cultures and backgrounds. Engage in anti-oppressive practices that actively challenge the systems, structures, and policies of racism and inequity.
+      <!-- use a description list (dl) for short items -->
+      <dl>
+        <li>
+          <title>Sample Behaviors</title>
+
+          <p>
+          Solicit and use feedback from multiple cultural perspectives to make inclusive and equity-minded decisions.
+          </p>
+          <p>
+          Actively contribute to inclusive and equitable practices that influence individual and systemic change.
+          </p>
+          <p>
+          Advocate for inclusion, equitable practices, justice, and empowerment for historically marginalized communities.
+          </p>
+          <p>
+          Seek global cross-cultural interactions and experiences that enhance one’s understanding of people from different demographic groups and that leads to personal growth.
+          </p>
+          <p>
+          Keep an open mind to diverse ideas and new ways of thinking.
+          </p>
+          <p>
+          Identify resources and eliminate barriers resulting from individual and systemic racism, inequities, and biases.
+          </p>
+          <p>
+          Demonstrate flexibility by adapting to diverse environments.
+          </p>
+          <p>
+          Address systems of privilege that limit opportunities for members of historically marginalized communities.
+          </p>
+          
+        </li>
+      </dl>
+    </p>
+  </subsection>
+
+
+  <!-- Include chapters -->
+  <subsection xml:id="sec-NACE5">
+    <title>5. Leadership</title>
+
+    <p>
+      Recognize and capitalize on personal and team strengths to achieve organizational goals.
+      <!-- use a description list (dl) for short items -->
+      <dl>
+        <li>
+          <title>Sample Behaviors</title>
+
+          <p>
+          Inspire, persuade, and motivate self and others under a shared vision.
+          </p>
+          <p>
+          Seek out and leverage diverse resources and feedback from others to inform direction.
+          </p>
+          <p>
+          Use innovative thinking to go beyond traditional methods.
+          </p>
+          <p>
+          Serve as a role model to others by approaching tasks with confidence and a positive attitude.
+          </p>
+          <p>
+          Motivate and inspire others by encouraging them and by building mutual trust.
+          </p>
+          <p>
+          Plan, initiate, manage, complete and evaluate projects.
+          </p>
+          
+        </li>
+      </dl>
+    </p>
+  </subsection>
+
+
+  <!-- Include chapters -->
+  <subsection xml:id="sec-NACE6">
+    <title>6. Professionalism</title>
+
+    <p>
+      Knowing work environments differ greatly, understand and demonstrate effective work habits, and act in the interest of the larger community and workplace.
+      <!-- use a description list (dl) for short items -->
+      <dl>
+        <li>
+          <title>Sample Behaviors</title>
+
+          <p>
+          Act equitably with integrity and accountability to self, others, and the organization.
+         </p>
+          <p> 
+          Maintain a positive personal brand in alignment with organization and personal career values.
+          </p>
+          <p>
+          Be present and prepared.
+          </p>
+          <p>
+          Demonstrate dependability (e.g., report consistently for work or meetings).
+          </p>
+          <p>
+          Prioritize and complete tasks to accomplish organizational goals.
+          </p>
+          <p>
+          Consistently meet or exceed goals and expectations.
+          </p>
+          <p>
+          Have an attention to detail, resulting in few if any errors in their work.
+          </p>
+          <p>
+          Show a high level of dedication toward doing a good job.
+          </p>
+          
+        </li>
+      </dl>
+    </p>
+  </subsection>
+
+
+  <!-- Include chapters -->
+  <subsection xml:id="sec-NACE7">
+    <title>7. Teamwork</title>
+
+    <p>
+      Build and maintain collaborative relationships to work effectively toward common goals, while appreciating diverse viewpoints and shared responsibilities.
+      <!-- use a description list (dl) for short items -->
+      <dl>
+        <li>
+          <title>Sample Behaviors</title>
+
+          <p>
+          Listen carefully to others, taking time to understand and ask appropriate questions without interrupting.
+          </p>
+          <p>
+          Effectively manage conflict, interact with and respect diverse personalities, and meet ambiguity with resilience.
+          </p>
+          <p>
+          Be accountable for individual and team responsibilities and deliverables.
+          </p>
+          <p>
+          Employ personal strengths, knowledge, and talents to complement those of others.
+          </p>
+          <p>
+          Exercise the ability to compromise and be agile.
+          </p>
+          <p>
+          Collaborate with others to achieve common goals.
+          </p>
+          <p>
+          Build strong, positive working relationships with supervisor and team members/coworkers.
+          </p>
+          
+        </li>
+      </dl>
+    </p>
+  </subsection>
+
+
+  <!-- Include chapters -->
+  <subsection xml:id="sec-NACE8">
+    <title>8. Technologies</title>
+
+    <p>
+      Understand and leverage technologies ethically to enhance efficiencies, complete tasks, and accomplish goals
+      <!-- use a description list (dl) for short items -->
+      <dl>
+        <li>
+          <title>Sample Behaviors</title>
+
+          <p>
+          Navigate change and be open to learning new technologies.
+          </p>
+          <p>
+          Use technology to improve efficiency and productivity of their work.
+          </p>
+          <p>
+          Identify appropriate technology for completing specific tasks.
+          </p>
+          <p>
+          Manage technology to integrate information to support relevant, effective, and timely decision-making.
+          </p>
+          <p>
+          Quickly adapt to new or unfamiliar technologies.
+          </p>
+          <p>
+          Manipulate information, construct ideas, and use technology to achieve strategic goals.
+          </p>
+          
+        </li>
+      </dl>
+    </p>
+  </subsection>
+
+
+
+  
+
+</section>
