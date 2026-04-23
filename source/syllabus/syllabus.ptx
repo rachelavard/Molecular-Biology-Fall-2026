@@ -5,6 +5,7 @@
 
   <introduction>
     <p>
+      Welcome to Molecular Biology! 
     </p>
   </introduction>
   <!-- Include chapters -->
@@ -109,6 +110,11 @@
         </li>
       </dl>
     </p>
+
+
+
+
+
 
   <!-- Use paragraphs to break apart subsections -->
     <paragraphs>
@@ -288,16 +294,307 @@
           </p>
         </li>
 
+        <li>
+          <title>US Copyright Law</title>
+
+          <p>
+            Please click here to find the US TEACH Act, which prohibits students from saving, distributing, or altering course content without permission
+          </p>
+       </li>
+
       </dl>
       </p>
     </paragraphs>
   </subsection>
 
+  
+
   <!-- Other subsections for larger dividers -->
   <subsection xml:id="sec-assessments">
-    <title>Assessments and Grades</title>
+    <paragraphs>
+      <title>Assignments and Grades</title>
+      <p>
+        <dl>
+        <li>
+          <title>Assignment Weight</title>
+          <p>
+              Exams - 30%
+            </p>
+            <p>
+              Laboratory - 30%
+            </p>
+            <p>
+              Final Exam (Cumulative) - 10%
+            </p>
+            <p>
+              Problem Sets - 10%
+            </p>
+            <p>
+              Creative Study Guides - 10%
+            </p>
+            <p>
+              Structure Quiz - 5%
+            </p>
+            <p>
+              3 Minute Thesis - 5%
+            </p>
+            <p>
+                   
+            </p>
+            <p>
+              Participation Up to 2 extra credit points 
+            </p>
+        </li>
 
-    <p>
+        <li>
+          <title>Letter Grade Assignmets</title>
+          <p>
+              A 95 - 100
+          </p>
+          <p>
+              A- 90 - 94.99
+          </p>
+          <p>
+              B+ 87 - 89.99
+          </p>
+          <p>
+              B 83 - 86.99
+          </p>
+          <p>
+              B- 80 - 82.99
+          </p>
+          <p>
+              C+ 77 - 79.99
+          </p>
+          <p>
+              C 73 - 76.99
+          </p>
+          <p>
+              C- 70 - 72.99
+          </p>
+          <p>
+              D+ 67 - 69.99
+          </p>
+          <p>
+              D 63 - 66.99
+          </p>
+          <p>
+              D- 60 - 62.99
+          </p>
+          <p>
+              D 0 - 59.99
+          </p>
+       </li>
+
+       <li>
+          <title>Important Grading Notes </title>
+          <p>
+               	Please note that you must have a <em>passing grade</em> in both <em>the lab and the lecture</em> in order to pass this course
+          </p>
+          <p>
+               	The goal of this grading scheme is to show your overall mastery of material in this course. Therefore, if your <em>final exam score is higher</em> than any of your first 3 exam scores, I will <em>drop your lowest exam</em> score and replace that score with your final exam score. 
+          </p>
+          <p>
+               	There will be no class scale (I do not believe that your grade should depend on the grade of your classmates)
+          </p>
+          <p>
+                However, if the entire class does poorly on an assignment, that is a reflection on how the material was taught or on the quality of the assessment tool
+          </p>
+          <p>
+                Should the entire class do poorly on an assignment, we will discuss together the plan moving forward to ensure that all students are able to learn the material and demonstrate their understanding in an appropriate way
+          </p> 
+          <p>
+              <em>Important Note</em> nothing submitted in this course can be generated in part or full by other people, online resources, AI, or by any entity other than yourself! Breaking this rule will result in an automatic 0% on the assignment and being reported to Academic Affairs. 
+          </p>         
+       </li>
+
+       <li>
+          <title>Exams</title>
+          <p>
+              The purpose of this course is to truly understand the science behind molecular biology, and to begin honing your skills to think critically and communicate effectively as scientists
+          </p>
+          <p>
+              Exams will be comprised of:
+          </p>
+          <p>
+              Short Answer Questions
+          </p>
+          <p>
+              Essay Questions 
+          </p>
+          <p>
+              Pictographic questions that ask students to complete tables, Venn Diagrams, label images, sketch diagrams etc.
+          </p>
+          <p>
+              Exam questions will pull from multiple chapters and sections and ask you to pull information together to create a cohesive answer. <em>Anything covered in lecture, in lab, or in the assigned problem sets</em> is fair game on the exams. 
+          </p>
+          <p>
+              The best way to prepare for exams will be to regularly go through your class notes, complete the problem sets, and use the provided creative study guides
+          </p>
+          <p>
+              Exam style: students will have the option to take the semester exams either <em>written or orally</em>
+          </p>
+          <p>
+              The content will be identical, this is simply a way to allow students to demonstrate their knowledge in a format that will work best for them!
+          </p>
+          <p>
+              If you opt to take the exam orally, you must schedule with me at least <em>1 week</em> prior to the exam date. 
+          </p>
+          <p>
+              There will be a written, <em>cumulative final exam</em> at the end of the semester that will cover all material taught during the course of the semester
+          </p>
+       </li>
+
+       <li>
+          <title>Structure Quiz</title>
+          <p>
+              In molecular biology, we will be talking extensively about the structure – function relationships of biological molecules. In order to be able to have these in-depth conversations, we need to all know the structures of the fundamental building blocks of nucleic acids and proteins. As such, we will have a quiz on which you will be tested on the:
+          </p>
+          <p>
+              Names and abbreviations of all amino acids and nucleic acids
+          </p>
+          <p>
+              Structures of all amino acids (the full structures and the R groups)
+          </p>
+          <p>
+             	Structures of all nucleotides (including all phosphate, sugar, and base components)
+          </p>
+          <p>
+              This quiz will include: 
+          </p>
+          <p>
+             	Drawing structures of amino acids and nucleic acids
+          </p>
+          <p>
+             	Labeling amino acids and nucleic acids
+          </p>
+          <p>
+             	Using any abbreviations for these structures that is requested. 
+          </p>
+       </li>
+
+       <li>
+          <title>Laboratory Assignments</title>
+          <p>
+              Laboratory assignments will include labs, lab reports, lab notebook quizzes, lab packets, etc. See lab syllabus for details.
+          </p>
+       </li>
+
+       <li>
+          <title>Problem Sets</title>
+          <p>
+              The best way to learn the information in this course is to apply it to the problem sets assigned. Problem sets are due every Thursday, and will be posted to Canvas by midnight every Thursday.
+          </p>
+          <p>
+             	Problem sets are due every <em>Thursday</em>
+          </p>
+          <p>
+             	All problem sets have a <em>final due date</em> of the day before exams
+          </p>
+          <p>
+              Problem sets will not receive any late points if submitted up until the day before the exam
+          </p>
+          <p>
+              Absolutely <em>no problem sets will be accepted</em> after 11:30 the day before each exam!
+          </p>
+          <p>
+             	Problem set answer keys will be posted to Canvas the day before each exam
+          </p>
+          <p>
+              You can <em>request problem set answer keys</em> at any point after you have submitted that problem set
+          </p>
+          <p>
+              Problem sets are meant to test both your memory and understanding or course content, as well as to test your ability to comprehend, apply, design, and approach complex problems. Problem sets will frequently contain questions that we won’t have covered directly in class, but that we will have worked on all necessary tools needed to answer these questions. 
+          </p>
+          <p>
+              The goal of the problem sets is to test your full understanding of the material. As such, your target audience is <em>NOT me</em>! Your answers should be written in a way that one of your peers could understand the topic that you are discussing.  Problem sets must be written in complete sentences and be linear.
+          </p>
+          <p>
+              If your handwriting is messy or difficult to read, please type your problem sets. Problem sets with copious side notes, scribbles, and notes in the margins will not be accepted. 
+          </p>
+          <p>
+              Problem sets are graded as ++ (100%), + (90%),  (80%), -(70%), -- (50%), or 0%. Problem sets will be graded both on correctness as well as on effort.
+          </p>
+          <p>
+              Students will lose points for things including but not limited to: incorrect answers, incomplete answers, answers that fail to explain, answers that provide only 1 - 2 sentences when a full paragraph was expected, answers that do not use sketches when asked, answers that only use sketches and lack explanations, and answers that repeatedly make the same mistake that students have already received feedback for and have failed to address.
+          </p>
+          <p>
+              Each question will receive a score of **** (Answered Well), *** (Answered but with minor details missing or slight inaccuracies), ** (Answered but with several details missing or several  inaccuracies), *(Answered with many details missing or many inaccuracies), or 0 (not answered or answered so poorly that the answer receives no credit.
+          </p>
+          <p>
+              Problem sets must be submitted on the document posted to Canvas, and you <em>may NOT alter that document</em> (i.e. you may not give yourself additional space to answer certain questions). 
+          </p>
+          <p>
+              Documents that have been altered in any way will not be graded 
+          </p>
+          <p>
+             	Problem Set Formatting
+          </p>
+          <p>
+              Problem sets must be <em>neat and legible</em>, otherwise they will not be graded.
+          </p>
+          <p>
+              If you are concerned that your handwriting is not legible, please type your problem sets
+          </p>
+          <p>
+              Problem sets written in pen with copious scribbles <em>will not be graded</em>. Please use a pencil, an erasable pen, or neatly use white out to remove 
+          </p>
+          <p>
+              All problem sets must be submitted  in <em>pencil or in black ink</em>.
+          </p>
+          <p>
+              Problem sets may not be submitted in font that is smaller than 11 pt font
+          </p>
+          <p>
+              Any problem set that is not easily understandable / legible for any reason will not be graded.
+          </p>
+          <p>
+              You may, and in fact, it's suggested that you walk through these problem sets with your peers. However, <em>all students must turn in their own, completely unique answers to the assigned problems</em>. Students caught turning in problem set answers that are identical or very similar to their classmates or to sources online <em>will receive a 0% for the assignment</em> and be reported to Academic Affairs
+          </p>
+          <p>
+              Any answers on problem sets or exams that cover content that was not covered in this class will result in no credit for that question, and may result in being reported to Academic Affairs (see above for Academic Honesty Policy)
+          </p>
+       </li>
+
+       <li>
+          <title>Creative Study Guides</title>
+          <p>
+            This is a creative assignment that is meant to be fun, aid you in your studying, help improve your grade, and, most importantly, enhance your comprehension of the course material. A study guide is due the Monday prior to each of the 3 in class exams. The material and style are entirely up to you. 
+          </p>
+          <p>
+            Study guides <em>must cover all material</em> that will be covered on that exam
+          </p>
+          <p>
+            Study guides can be in any format that you'd like, including: written guides of the material covered in the exam, a rap song, a lesson plan, a mock interview / radio station story / breaking news report, a poem, a set of written questions that you think may be on the exam (must include at least 20 well-conceived questions with a separate document containing well worded answers. Questions should be reminiscent of questions I ask on psets), etc
+          </p>
+          <p>
+            If you have an idea for a study guide but are not sure if it is appropriate, come chat with me
+          </p>
+          <p>
+            Students may NOT submit study guides that contain words, pictures, questions, screenshots, etc. of any of the material that I have presented for this course (including but not limited to: psets, lecture slides, pictures of drawings I did on the board, lab documents, etc.).
+          </p>
+          <p>
+            I will review study guides on the day of submission, and then study guides will be released to the class (with your name and any identifying markers removed when possible [if you chose to do a film/song/interview etc. I may not be able to remove identifying markers for obvious reasons]) so that the class can use the material as a study tool.
+          </p>
+          <p>
+           	Your grade will reflect both the effort that you put in, as well as the usefulness of your study guide. Creative study guides will be graded as  ++ (100%), + (90%),  (80%), -(70%), -- (50%), or 0%. 
+          </p>
+       </li>
+
+       <li>
+          <title>Title</title>
+          <p>
+              Content
+          </p>
+       </li>
+
+        </dl>
+      </p>
+     </paragraphs>
+      
+    
+    <p>    
+       
     </p>
   </subsection>
 </section>
