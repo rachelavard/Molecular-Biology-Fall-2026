@@ -21,23 +21,7 @@
       <!-- Other documents could go here, like a schedule, project description, etc. -->
     </chapter>
 
-    <chapter xml:id="course-notes">
-      <title>Course Notes</title>
-
-      <introduction>
-        <p>
-          The following notes are intended to remind you what we covered each week.
-          They are not a substitute for attending class and not a substitute for reading the textbook.
-        </p>
-      </introduction>
-
-      <xi:include href="./notes/week01.ptx"/>
-      <xi:include href="./notes/week02.ptx"/>
-      <!-- etc. -->
-
-    </chapter>
-
-
+    
     <chapter xml:id="activities">
       <title>In-Class Activities</title>
 
@@ -56,7 +40,7 @@
     <chapter xml:id="handouts">
       <title>Handouts</title>
       <!-- Include handouts -->
-      <!--<xi:include href="./handouts/handout-filename.ptx"/>-->
+      <xi:include href="./handouts/Handout-1.ptx"/>
     </chapter>
 
     <chapter xml:id="homework">

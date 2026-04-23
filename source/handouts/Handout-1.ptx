@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<handout>
+<title>How to Write a Lab Report</title>
+
+  <page>
+    <p workspace="1in">
+      Lab reports (or scientific papers) are the most common way that research and information is shared throughout the scientific community. Lab reports should be typed in a formal manner, using correct grammar, complete sentences, and appropriate sentence structure. They should be as descriptive as possible while also remaining succinct and to the point. Each lab report will be slightly unique, but here are some general descriptions of each of the sections that are present in all lab reports / scientific papers.
+    </p>
+
+    <p workspace="1in">
+      <em>Introduction</em>
+    </p>
+
+    <p workspace="1in">
+      The introduction is where you set the stage for the research / project. It should be written so that your peers can understand the paper. A peer may include another student who has taken many of the science classes offered here at Framingham, but perhaps have not taken molecular biology yet. This means you should assume that the reader has a strong understanding of the fundamental concepts of biology and chemistry, but you should thoroughly explain the project, the methods and how they work, the results, and what the results mean.
+    </p>
+
+    <p workspace="1in">
+      The length of the introduction varies based on the project and your writing style, but generally should be less than 1 page in length. 
+    </p>
+
+    <p workspace="1in">
+      <em>Methods</em>
+    </p>
+    
+    <p workspace="1in">
+      This is where you explain to the reader what you did, what you used to do it, and why you did it. Methods should not be bullet points and should rather be written in complete paragraph form. You can break the methods section up into smaller subsections based on the experiment step if you’d like.
+    </p>
+    
+    <p workspace="1in">
+      Methods sections should be complete explanations of what occurred in the lab. The methods section should be written such that a peer (not in this class) can understand exactly what you did, why you did it, and how you did it, and should be written essentially in the order that you performed the experiment (i.e. don’t describe how you ran a gel before you explain how you extracted the DNA, prepared it, etc.). From reading the methods section, a peer should be able to repeat the experiments that you did and get the same results. It is important to note that the methods should still be written in an elevated, scientific style. Examples of what this means are below:
+    </p>
+
+    <p workspace="1in">
+      <em>How not to write the methods section</em>: I used a pipette to measure 100mL of water and then I put that water into a beaker. I then used the pipette again to measure 50mL of HCl and I put the HCl into the beaker with the water. Then I used a glass stir rod to mix the two solutions together. We only needed 125 mL of this solution but we made a little extra to account for transfer loss. We then added 125 mL of this acid solution to the reaction using a pipette. 
+
+    </p>
+
+    <p workspace="1in">
+      <em>How to write a methods section</em>: Next, 125mL of 2 M HCl was added to the reaction
+    </p>
+
+    <p workspace="1in">
+      In the above example you can see that the proper way to write the methods section is succinct and descriptive. Any scientist will know that you need to use appropriate measuring tools and glassware in a lab. Methods sections should be as succinct as possible while providing all necessary information
+    </p>
+
+    <p workspace="1in">
+      <em>Results</em>
+    </p>
+
+    <p workspace="1in">
+      This section is for results only! Here you provide all of your data, generally in the order that you obtained the data. You should describe scientifically what happened during each step of the experiment (including observations such as color and opacity when appropriate). All data should be shown in well-crafted, easy to read tables and figures. This includes data that seems strange or does not support your hypothesis. If you have data that you think is wrong, explain why in the discussion. 
+    </p>
+
+    <p workspace="1in">
+      <em>Discussion</em>
+    </p>
+
+    <p workspace="1in">
+      Discussion is your chance to shine, and to explain your results. Take your time to walk through your data, explain why you saw what you saw and got the results that you got, and what they mean. If your data matched your hypothesis, explain why. If your data didn’t match your hypothesis, explain why. Here is your chance to also explain any errors of difficulties you encountered during your experiment. I will not be grading you directly on the results that you obtained during an experiment, but rather on your ability to show those results, explain what they mean, and explain what went wrong, if anything. When explaining what went wrong avoid vague statements such as ‘transfer loss’. The discussion section should not be overly long. No new information should be presented in the discussion (such as methods, materials, or results). The discussion section should merely explain the results that you’ve already presented.
+    </p>
+
+    <p workspace="1in">
+      <em>References</em>
+    </p>
+    
+    <p workspace="1in">
+      Any information that you pull from an outside source needs to be referenced. References should only come from primary literature. Your reports should include in text citations (preferably just a reference number) as well as a complete works cited page at the end of the document. You can use any referencing style that you prefer. 
+    </p>
+
+    <p workspace="1in">
+      <em>Figures and Tables</em>
+    </p>
+
+    <p workspace="1in">
+      All data should be shown as either a figure or as a table. Figures and tables should be neat and easy to read. Most figures and tables will be made using excel and PowerPoint. Figures and tables should be inserted into the text at an appropriate location near where the data is being discussed. Figures and tables should be as small as possible while still being easy to read (i.e. a single table should not take up an entire page). A table is what it sounds like: a table showing data. Anything that is not a table is a figure (pictures, graphs, sketches, diagrams, flow charts, etc.). Tables and figures should all be labeled and captioned. They should be labeled in numerical order (i.e. Table 1, Figure 1). Tables and Figures are numbered independently. They should then be captioned. The caption should include a description of what the figure or table is showing. Captions should be extremely brief while still providing enough information for the reader to understand what the figure / table is depicting. 
+    </p>
+
+  </page>
+</handout>
