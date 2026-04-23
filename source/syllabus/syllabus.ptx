@@ -311,7 +311,6 @@
 
   <!-- Other subsections for larger dividers -->
   <subsection xml:id="sec-assessments">
-    <paragraphs>
       <title>Assignments and Grades</title>
       <p>
         <dl>
@@ -624,7 +623,6 @@
 
         </dl>
       </p>
-     </paragraphs>
     
   </subsection>
 
@@ -793,29 +791,178 @@
         <dl>
               
        <li>
-          <title>Exams</title>
+          <title>Disclaimer</title>
           <p>
-              There will be 3 semester exams, all on Fridays
+              Schedule below is very tentative and will likely change over the course of the semester
           </p>
-          <p>
-            October 17th - Exam 1
-          </p>
-          <p>
-            November 7th - Exam 2
-          </p>
-          <p>
-            December 5th - Exam 3
-          </p>
+         
        </li>
 
        <li>
-          <title>3 Minute Thesis</title>
+          <title>List of Topics</title>
           <p>
-            There will be 1 or two days of 3MT presentations, depending on the number of students in the course. These presentations will occur on the last day (or two days) of class for the semester. 3MT slides will be do prior to this, as practice presentations will occur during one of the lab sessions this semester (see lab syllabus for details) 
+            Lecture 1 Syllabus Day
           </p>
           <p>
-            December 8th (maybe) and 10th - 3MT Presentation Day(s)
+            Lecture 2 Chapter 2, Chemical Bonds
+           </p>
+          <p> 
+            Lecture 3 Chapter 2, Chemical Bonds
           </p>
+          <p>
+            Lecture 4 Chapter 2, Chemical Bonds
+          </p>
+          <p>
+            Lecture 5 Chapter 2, Chemical Bonds
+          </p>
+          <p>
+            Lecture 6 Chapter 3, DNA, RNA, and Amino Acids
+          </p>
+          <p>
+            Lecture 7 Chapter 3, DNA, RNA, and Amino Acids
+          </p>
+          <p>
+            Lecture 8 Chapter 4, DNA Topology
+          </p>
+          <p>
+            Lecture 9 Chapter 4, DNA Topology
+          </p>
+          <p>
+            Lecture 10 Chapter 4, DNA Topology
+          </p>
+          <p>
+            Lecture 11 Chapter 5, RNA Structure
+          </p>
+          <p>
+            Lecture 12 Chapter 5, RNA Structure
+          </p>
+          <p>
+            Lecture 13 Chapter 6, Protein Structure
+          </p>
+          <p>
+            Lecture 14 Chapter 6, Protein Structure
+          </p>
+          <p>
+            Lecture 15 Chapter 6, Protein Structure <em>(Structure Quiz)</em>
+          </p>
+          <p>
+            Lecture 16 Chapter 6, Protein Structure
+          </p>
+          <p>
+            Lecture 17 Chapter 6, Protein Structure
+          </p>
+          <p>
+            Lecture 18 Chapter 6, Protein Structure
+          </p>
+          <p>
+            Lecture 19 Chapter 7, Techniques in Molecular Biology
+          </p>
+          <p>
+            Lecture 20 Chapter 7, Techniques in Molecular Biology
+          </p>
+          <p>
+            Lecture 21 Chapter 8 Genome Structure
+          </p>
+          <p>
+            Lecture 22 Chapter 8 Genome Structure 
+          </p>
+          <p>
+            Lecture 23 Chapter 8 Genome Structure
+          </p>
+          <p>
+            Lecture 24 Chapter 8 Genome Structure
+          </p>
+          <p>
+            Lecture 25 Chapter 8 Genome Structure
+          </p>
+          <p>
+            <em>Lecture 26 Exam 1</em>
+          </p>
+          <p>
+            Lecture 27 Chapter 9, DNA Replication
+          </p>
+          <p>
+            Lecture 28 Chapter 9, DNA Replication
+          </p>
+          <p>
+            Lecture 29 Chapter 9, DNA Replication
+          </p>
+          <p>
+            Lecture 30 Chapter 9, DNA Replication
+          </p>
+          <p>
+            Lecture 31 Chapter 9, DNA Replication
+          </p>
+          <p>
+            Lecture 32 Chapter 10, DNA Damage and Repair
+          </p>
+          <p>
+            Lecture 33 Chapter 10, DNA Damage and Repair
+          </p>
+          <p>
+            Lecture 34 Chapter 10, DNA Damage and Repair
+          </p>
+          <p>
+            Lecture 35 Chapter 10, DNA Damage and Repair
+          </p>
+          <p>
+            Lecture 36 Chapter 10, DNA Damage and Repair
+          </p>
+          <p>
+            Lecture 37 Chapter 11, Homologous Recombination
+          </p>
+          <p>
+            <em>Lecture 38 Exam 2</em>
+          </p>
+          <p>
+            Lecture 39 Chapter 11, Homologous Recombination
+          </p>
+          <p>
+            Lecture 40 Chapter 11, Homologous Recombination
+          </p>
+          <p>
+            Lecture 41 Chapter 11, Homologous Recombination
+          </p>
+          <p>
+            Lecture 42 Chapter 12, Mechanisms of Transcription
+          </p>
+          <p>
+            Lecture 43 Chapter 12, Mechanisms of Transcription
+          </p>
+          <p>
+            Lecture 44 Chapter 12, Mechanisms of Transcription
+          </p>
+          <p>
+            Lecture 45 Chapter 12, Mechanisms of Transcription
+          </p>
+          <p>
+            Lecture 46 Chapter 13, RNA Splicing
+          </p>
+          <p>
+            Lecture 47 Chapter 13, RNA Splicing
+          </p>
+          <p>
+            Lecture 48 Chapter 13, RNA Splicing
+          </p>
+          <p>
+            Lecture 49 Chapter 14, Translation
+          </p>
+          <p>
+            Lecture 50 Chapter 14, Translation
+          </p>
+          <p>
+            Lecture 51 Chapter 14, Translation
+          </p>
+          <p>
+            <em>Lecture 52 Exam 3</em>
+          </p>
+          <p>
+            <em>Lecture 53 3MT Day</em>
+          </p>
+          <p>
+            <em>Lecture 54 3MT Day</em>
+          </p>
+          
        </li>
     
         </dl>
