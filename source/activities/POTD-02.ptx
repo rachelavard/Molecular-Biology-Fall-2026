@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- When creating a new activity, make a copy of this file with appropriate name -->
+<worksheet xml:id="POTD-02">
+  <title>Problem of the Day 2</title>
+
+  <!-- Optional introduction -->
+  <introduction>
+    <p>
+      This is a copy of the POTD for today. The POTDs are meant to be completed during the first portion of the lecture period, and are meant to be a time to work through content with your peers. These problems are posted here in case students would like to use these questions as a study tool.
+    </p>
+  </introduction>
+
+  <!-- Exercises start here. -->
+  <exercise workspace="2in">
+    <statement>
+      <p>
+        Please grab a marker and a new friend and draw both a 2'-deoxyribose and the amino acid K *without looking at your note* 
+      </p>
+    </statement>
+  </exercise>
+
+</worksheet>

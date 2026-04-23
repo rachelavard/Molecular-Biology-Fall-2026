@@ -27,12 +27,14 @@
 
       <introduction>
         <p>
-          These are copies of the in-class activities distributed during the semester.
+          These are copies of the in-class Problems of the Day (POTD) from this semester.
         </p>
       </introduction>
 
       <!-- Remove the example and replace with your own activities -->
-      <xi:include href="./activities/01-intro-activity.ptx"/>
+      <xi:include href="./activities/POTD-01.ptx"/>
+      <xi:include href="./activities/POTD-02.ptx"/>
+      <xi:include href="./activities/POTD-03.ptx"/>
 
       <!-- Add more xi:include files here to include them in the main course -->
     </chapter>
