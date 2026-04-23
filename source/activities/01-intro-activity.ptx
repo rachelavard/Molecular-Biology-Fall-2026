@@ -2,7 +2,7 @@
 
 <!-- When creating a new activity, make a copy of this file with appropriate name -->
 <worksheet xml:id="activity-01-intro-activity">
-  <title>Introduction Activity</title>
+  <title>Problem of the Day 1</title>
 
   <!-- Optional introduction -->
   <introduction>
