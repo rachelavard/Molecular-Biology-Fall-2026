@@ -51,7 +51,8 @@
     <chapter xml:id="handouts">
       <title>Handouts</title>
       <!-- Include handouts -->
-      <xi:include href="./handouts/Handout-1.ptx"/>
+      <xi:include href="./handouts/HowToWriteALabReport.ptx"/>
+       <xi:include href="./handouts/Lab1.ptx"/>
     </chapter>
 
     <chapter xml:id="homework">

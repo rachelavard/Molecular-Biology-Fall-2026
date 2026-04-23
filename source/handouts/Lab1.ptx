@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<handout>
+<title>Lab 1: Strawberry DNA Extraction</title>
+
+<section xml:id="Strawberry1" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Introduction</title>
+
+  <introduction>
+    <p>
+      Welcome to Molecular Biology! This semester we will be focusing heavily on DNA, and on how DNA is maintained, replicated, and transcribed. As such, it only makes sense that your first lab experience would involve extracting DNA from an organism, in this case; strawberries. Unfortunately, your professor is not as nice as she seems! She intentionally changed some of the instructions in this experiment, causing catastrophic results. It is your job to conduct the experiment, view the results, and form a scientific hypothesis as to what may be wrong with the instructions. You must then create and perform a new protocol that will improve your DNA extraction. 
+    </p>
+  </introduction>
+  
+  <!-- Include chapters -->
+  <subsection xml:id="sec-Strawberry2">
+    <title>Materials</title>
+
+    <p>
+      3 Strawberries
+    </p>
+    <p>  
+      Ice-cold rubbing alcohol (isopropyl alcohol)
+    </p>
+    <p>  
+      1 mL Dawn Dishwashing Detergent
+    </p>
+    <p>  
+      Ziplock Bag
+    </p>
+    <p>  
+      Test Tube
+    </p>
+    <p>  
+      Cheesecloth
+    </p>
+    <p>  
+      Funnel
+    </p>
+    <p>  
+      80 mL Water
+    </p>
+    <p>  
+      3 g Salt
+    </p>
+    <p>  
+      Cotton tipped swab 
+    </p>
+  </subsection>
+
+  <!-- Include chapters -->
+  <subsection xml:id="sec-Strawberry3">
+    <title>Directions, Part 1:</title>
+
+    <p>
+      1.	Mix the salt, water, and Dawn detergent in a beaker. Set the mixture aside. This is your extraction liquid. 
+    </p>
+    <p>  
+      2.	Prepare a funnel by lining it with the cheesecloth. Put the funnel in the test tube and set aside for later. 
+    </p>
+    <p>  
+      3.	Remove the tops from your strawberries
+    </p>
+    <p>  
+      4.	Put the strawberries in the plastic bag and push out all the extra air. Seal it tightly. 
+    </p>
+    <p>  
+      5.	With your fingers, squeeze and smash the strawberry mixture for ~2 minutes. 
+    </p>
+    <p>  
+      6.	Add 45 mL of the extraction liquid you made in Step 1 to the strawberries in the bag. Push out all the extra air and reseal the bag. 
+    </p>
+    <p>  
+      7.	Squeeze the strawberry mixture with your fingers for 1 minute. 
+    </p>
+    <p>  
+      8.	Pour the strawberry mixture from the bag into the funnel. Let it drip into the test tube 
+    </p>
+    <p>  
+      9.	Throw away the cheesecloth and the strawberry pulp inside. Pour out the contents of the test tube so it is 1/4 full. 
+    </p>
+    <p>  
+      10.	Tilt the test tube and very slowly pour the cold rubbing alcohol down the side. The alcohol should form a layer on top of the strawberry liquid. (Don’t let the alcohol and strawberry liquid mix. The DNA collects between the two layers!).  Slowly add enough alcohol so that you have equal parts of both liquids.
+    </p>
+    <p>  
+      11.	Dip the cotton tipped swab (wood side down!!) into the test tube where the alcohol and strawberry layers meet. Pull up the swab. The whitish, stringy material is DNA containing strawberry genes!
+    </p>
+  </subsection>
+
+
+<!-- Include chapters -->
+  <subsection xml:id="sec-Strawberry4">
+    <title>Directions, Part 2:</title>
+
+    <p>
+      1.	Repeat the experiment that is outlined in Part 1, but include your alteration to see if you’re able to improve your DNA extraction. 
+    </p>
+  </subsection>
+
+
+<!-- Include chapters -->
+  <subsection xml:id="sec-Strawberry5">
+    <title>Before You Leave Lab</title>
+
+    <p>
+      1.	Be sure that your lab notebook is complete and contains all of your methods, including the procedure that you came up with yourself
+    </p>
+    <p>   
+      2.Be sure that your lab space is completely cleaned
+    </p>
+    <p>   
+      3. Clean all lab supplies used 
+    </p>
+    <p>   
+      4. Place lab supplies back in their appropriate locations
+    </p>
+    <p>   
+      5. Wipe bench space with water and a paper towel
+    </p>
+  </subsection>
+
+
+
+
+<!-- Include chapters -->
+  <subsection xml:id="sec-Strawberry6">
+    <title>Postlab Assignment</title>
+
+    <p>
+     Please write a methods and discussion section based on your experiments from today. 
+    </p>
+    <p>
+      For more information on how to write these sections, please reference the 'How to Write a Lab Report' document. 
+    </p>
+  </subsection>
+          
+
+
+
+
+<!-- Include chapters -->
+  <subsection xml:id="sec-Strawberry7">
+    <title>Source</title>
+
+    <p>
+      This lab protocol is based loosely off of the protocol "Strawberry DNA Extraction Lab Using Common Household Ingredients" by Stacy Fritz, NAAE
+    </p>
+  </subsection>
+
+  <!-- Include chapters -->
+  <subsection xml:id="sec-Strawberry8">
+    <title>NACE Competencies</title>
+
+    <p>
+      This assignment fulfills NACE competencies 1, 2, 3, 6, 7, and 8 (for more information on NACE competencies, please see the document titled 'NACE Competencies').
+    </p>
+  </subsection>
+
+</section>
+
+</handout>
