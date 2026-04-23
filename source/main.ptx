@@ -35,7 +35,8 @@
       <xi:include href="./activities/POTD-01.ptx"/>
       <xi:include href="./activities/POTD-02.ptx"/>
       <xi:include href="./activities/POTD-03.ptx"/>
-
+      <xi:include href="./activities/POTD-04.ptx"/>
+      
       <!-- Add more xi:include files here to include them in the main course -->
     </chapter>
 

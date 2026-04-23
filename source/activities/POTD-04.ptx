@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- When creating a new activity, make a copy of this file with appropriate name -->
+<worksheet xml:id="POTD-04">
+  <title>Problem of the Day 4</title>
+
+  <!-- Optional introduction -->
+  <introduction>
+    <p>
+      This is a copy of the POTD for today. The POTDs are meant to be completed during the first portion of the lecture period, and are meant to be a time to work through content with your peers. These problems are posted here in case students would like to use these questions as a study tool.
+    </p>
+  </introduction>
+
+  <!-- Exercises start here. -->
+  <exercise workspace="2in">
+    <statement>
+      <p>
+        Without looking at your notes, please create a list with a friend that orders all of the intermolecular forces that we’ve discussed from weakest to strongest. Be sure to explain why they fall in this order!  
+      </p>
+    </statement>
+  </exercise>
+
+</worksheet>
